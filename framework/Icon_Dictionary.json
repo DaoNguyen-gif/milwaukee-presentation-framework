@@ -1,1 +1,130 @@
-{}
+{
+  "version": "1.0",
+
+  "rules": {
+    "style": "outline",
+    "icon_set": "Lucide",
+    "fallback": "circle-help",
+    "color": "follow_theme"
+  },
+
+  "keywords": {
+
+    "quality": "shield-check",
+    "inspection": "clipboard-check",
+    "audit": "clipboard-search",
+    "verification": "badge-check",
+    "validation": "badge-check",
+
+    "customer": "users",
+    "supplier": "factory",
+    "vendor": "factory",
+
+    "warehouse": "warehouse",
+    "inventory": "warehouse",
+    "storage": "archive",
+
+    "shipping": "truck",
+    "delivery": "truck",
+    "transport": "truck",
+
+    "production": "settings",
+    "manufacturing": "settings",
+    "process": "workflow",
+    "operation": "cog",
+
+    "planning": "calendar-days",
+    "schedule": "calendar-days",
+    "timeline": "calendar-range",
+
+    "training": "graduation-cap",
+    "workshop": "presentation",
+    "meeting": "users",
+
+    "target": "target",
+    "goal": "target",
+    "objective": "target",
+
+    "risk": "triangle-alert",
+    "issue": "circle-alert",
+    "problem": "circle-alert",
+
+    "improvement": "trending-up",
+    "performance": "bar-chart-3",
+    "dashboard": "layout-dashboard",
+
+    "cost": "coins",
+    "saving": "piggy-bank",
+
+    "time": "clock-3",
+    "duration": "clock-3",
+
+    "document": "file-text",
+    "report": "file-bar-chart",
+
+    "machine": "cpu",
+    "equipment": "wrench",
+
+    "people": "users",
+    "manager": "user-round",
+    "leader": "user-check",
+
+    "communication": "messages-square",
+    "email": "mail",
+
+    "root cause": "search",
+    "analysis": "search",
+
+    "action": "check-square",
+    "task": "list-check",
+
+    "success": "circle-check",
+    "warning": "triangle-alert",
+    "failure": "circle-x",
+
+    "trend": "chart-line",
+    "data": "database",
+
+    "calendar": "calendar",
+    "factory": "factory",
+
+    "incoming": "package",
+    "outgoing": "package-check",
+
+    "material": "boxes",
+    "part": "package-open",
+
+    "fmea": "shield-alert",
+    "control plan": "clipboard-list",
+
+    "sipoc": "git-branch",
+
+    "flow": "workflow",
+
+    "kaizen": "sparkles",
+
+    "poka yoke": "shield",
+
+    "standard": "book-open",
+
+    "checklist": "clipboard-list",
+
+    "meeting room": "building",
+
+    "brainstorm": "lightbulb",
+
+    "innovation": "lightbulb",
+
+    "vision": "eye",
+
+    "strategy": "compass",
+
+    "summary": "notebook",
+
+    "conclusion": "flag",
+
+    "next step": "arrow-right",
+
+    "thank you": "handshake"
+  }
+}
